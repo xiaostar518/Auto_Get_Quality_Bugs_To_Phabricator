@@ -103,6 +103,10 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+### PyCharm ###
+.idea/*
+.idea
+
 # python files
 Python27/
 
@@ -112,3 +116,4 @@ Python27/
 # history_file
 account
 cookies
+
